@@ -21,7 +21,7 @@ const result = highWord(sentence);
 console.log(result);
 
 
-
+/////   code     ///////////////////
 
 // function longestWord(sentence) {
 //     const words = sentence.split(' ')
@@ -39,7 +39,7 @@ console.log(result);
 // console.log(longestWord(s))
 
 
-
+// chatGPT code *******************************************888
 
 // function findLongestWord(sentence) {
 //     // Split the sentence into words
